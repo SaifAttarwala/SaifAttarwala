@@ -2,7 +2,7 @@ Hi, I’m Saif
 
 I’m interested in programming
 
-I’m currently learning Web Development and Computer Science
+I am a Web Developer and a Programmer
 
 I’m looking to collaborate on Open Source projects and my own Private projects
 
