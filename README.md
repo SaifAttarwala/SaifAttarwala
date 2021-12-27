@@ -1,7 +1,11 @@
 Hi, I’m Saif
+
 I’m interested in programming
+
 I am a Web Developer and a Programmer
+
 I’m looking to collaborate on Open Source projects and my own Private projects
+
 Email me at saifattarwala@gmail.com for inquiries
 
 <!---
